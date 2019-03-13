@@ -17,5 +17,5 @@ Tweets are separated and each includes user name, text and the user image. The p
 
 ## Authors
 
-* **Jiayi Wang** *
+* **Jiayi Wang** 
 
